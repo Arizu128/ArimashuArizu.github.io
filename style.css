@@ -1,0 +1,80 @@
+/* Style untuk judul halaman */
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 36px;
+    color: #333; /* Warna teks */
+    margin-bottom: 20px; /* Jarak dari elemen di bawahnya */
+}
+.cerita1{
+        font-family: Arial, Helvetica, sans-serif;
+        color:  whitesmoke;
+        background-color: rgb(42, 72, 204);
+        padding: 10px;
+        text-decoration: none;
+        transition: 0.3s;
+    }
+    .cerita1:hover{
+        background-color: rgb(108, 247, 247);
+        color:  whitesmoke;
+        padding: 10px;
+        text-decoration: none;
+        transform: scale(1.2);
+        box-shadow: 0px 1px 30px 0px;
+    }
+    
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+tr{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* Style untuk subjudul */
+h4 {
+    font-size: 24px;
+    color: #555; /* Warna teks yang sedikit lebih muda */
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+/* Style untuk paragraf teks cerita */
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    line-height: 1.5; /* Jarak antar baris teks */
+    margin-bottom: 20px;
+}
+
+/* Style untuk tautan */
+a {
+    text-decoration: none; /* Menghilangkan garis bawah pada tautan */
+    color: #0077FF; /* Warna tautan */
+}
+
+/* Style untuk garis horizontal */
+hr {
+    border: none; /* Menghilangkan garis horizontal */
+    border-top: 2px solid #DDD; /* Warna dan ketebalan garis */
+    margin: 20px 0; /* Jarak di atas dan di bawah garis */
+}
+
+/* Style untuk container halaman */
+body {
+    max-width: 800px; /* Lebar maksimum konten */
+    margin: 0 auto; /* Posisikan konten ke tengah */
+    padding: 20px; /* Ruang padding di sekitar konten */
+    background-color: #F9F9F9; /* Warna latar belakang halaman */
+}
+
+/* Style untuk tautan menuju ke chapter */
+a[href^="#c"] {
+    color: #FF6600; /* Warna tautan menuju chapter */
+    font-weight: bold;
+}
+.coming
+{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
